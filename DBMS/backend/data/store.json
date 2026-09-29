@@ -1,0 +1,62 @@
+{
+  "orders": [
+    {
+      "id": "d51602fb-57a8-4e29-9d0c-e537e6479512",
+      "tableNo": "T2",
+      "customerName": "",
+      "notes": "",
+      "status": "ready",
+      "createdAt": "2026-09-22T08:04:24.047Z",
+      "updatedAt": "2026-09-22T08:15:41.437Z",
+      "readyAt": "2026-09-22T08:15:41.437Z",
+      "items": [
+        {
+          "menuItemId": "m34",
+          "name": "Chapati",
+          "quantity": 1,
+          "price": 25
+        }
+      ],
+      "total": 25
+    },
+    {
+      "id": "abdfa7c3-ebf4-49e0-9292-36aa7d692bac",
+      "tableNo": "T1",
+      "customerName": "",
+      "notes": "",
+      "status": "ready",
+      "createdAt": "2026-09-22T07:46:42.316Z",
+      "updatedAt": "2026-09-22T07:46:51.918Z",
+      "readyAt": "2026-09-22T07:46:51.918Z",
+      "items": [
+        {
+          "menuItemId": "m13",
+          "name": "Masala Dosa",
+          "quantity": 1,
+          "price": 90
+        }
+      ],
+      "total": 90
+    },
+    {
+      "id": "6ce0b711-8e8d-47d6-aa32-d537551df2fc",
+      "tableNo": "T1",
+      "customerName": "",
+      "notes": "",
+      "status": "ready",
+      "createdAt": "2026-09-22T07:37:26.769Z",
+      "updatedAt": "2026-09-22T07:40:05.476Z",
+      "readyAt": "2026-09-22T07:40:05.476Z",
+      "items": [
+        {
+          "menuItemId": "m3",
+          "name": "Paneer Biryani",
+          "quantity": 1,
+          "price": 210
+        }
+      ],
+      "total": 210
+    }
+  ],
+  "payments": []
+}
